@@ -1,28 +1,28 @@
-<h1 align="center">🌾 Crop Yield Prediction Using Machine Learning 🌾</h1>
+<h1> Crop Yield Prediction Using Machine Learning </h1>
 
-<p align="center">
+<p>
   <font color="gray" size="3">Predicting crop yield based on soil properties and environmental data using ML algorithms</font>
 </p>
 
 ---
 
-## 📑 Table of Contents
+## Table of Contents
 
-- [About the Project](#about-the-project)
-- [Project Features](#project-features)
-- [Tech Stack](#tech-stack)
-- [Machine Learning Algorithms Used](#machine-learning-algorithms-used)
-- [System Specifications](#system-specifications)
-- [System Architecture](#system-architecture)
-- [Installation Guide](#installation-guide)
-- [How to Run](#how-to-run)
-- [Project Structure](#project-structure)
-- [Results](#results)
-- [Acknowledgements](#acknowledgements)
+- About the Project
+- Project Features
+- Tech Stack
+- Machine Learning Algorithms Used
+- System Specifications
+- System Architecture
+- Installation Guide
+- How to Run
+- Project Structures
+- Results
+- Acknowledgements
 
 ---
 
-## 🌱About the Project
+## About the Project
 
 This project uses **supervised machine learning algorithms** to predict the most suitable **crop** and **fertilizer** based on soil nutrients, pH, and weather conditions.
 
@@ -34,14 +34,14 @@ This project uses **supervised machine learning algorithms** to predict the most
 
 ---
 
-## ✨Project Features
+## Project Features
 
-- 🔍 Predict crop yield using soil and weather data
-- 🌿 Suggest fertilizers based on crop & soil nutrients
-- 🌐 Real-time weather using OpenWeatherMap API
-- 🎯 High accuracy using Random Forest and XGBoost
-- 🧪 Includes unit, integration, and system testing
-- 💻 Flask + Jupyter-based user interface
+-  Predict crop yield using soil and weather data
+-  Suggest fertilizers based on crop & soil nutrients
+-  Real-time weather using OpenWeatherMap API
+-  High accuracy using Random Forest and XGBoost
+-  Includes unit, integration, and system testing
+-  Flask + Jupyter-based user interface
 
 ---
 
@@ -59,7 +59,7 @@ This project uses **supervised machine learning algorithms** to predict the most
 
 ---
 
-## 🤖Machine Learning Algorithms Used
+## Machine Learning Algorithms Used
 
 | Algorithm           | Accuracy |
 |---------------------|----------|
@@ -74,22 +74,22 @@ This project uses **supervised machine learning algorithms** to predict the most
 
 ---
 
-## 💻System Specifications
+## System Specifications
 
-### 🔧 Hardware:
+###  Hardware:
 - Intel i3 or higher
 - 1.6 GHz CPU
 - 4–8 GB RAM
 - 2–4 GB Disk Space
 
-### 💽 Software:
+###  Software:
 - OS: Windows 7 or later
 - Language: Python 3.10.2
 - Platform: Jupyter Notebook
 
 ---
 
-## 🧩System Architecture
+## System Architecture
 
 
 - Data is cleaned and normalized
@@ -101,14 +101,14 @@ This project uses **supervised machine learning algorithms** to predict the most
 
 ---
 
-## ⚙️Installation Guide
+## Installation Guide
 
-### ✅ Prerequisites:
+###  Prerequisites:
 - Python 3.10+
 - Anaconda (recommended)
 - Internet connection for OpenWeatherMap API
 
-### 🔌Setup:
+### Setup:
 
 ```bash
 # Step 1: Clone the repository
@@ -127,9 +127,9 @@ jupyter notebook
 # OR for Flask app
 python main.py
 ```
-## ▶️How to Run
+## ▶How to Run
 
-### 📓 Jupyter Notebook
+###  Jupyter Notebook
 
 1. Open `main.ipynb` or `Crop_Yield_Prediction.ipynb`.
 2. Run all cells to:
@@ -137,7 +137,7 @@ python main.py
    - Test their accuracy
    - Predict crop and fertilizer recommendations
 
-### 🌐 Flask Web Application
+###  Flask Web Application
 
 1. Run the app using:
 
@@ -155,7 +155,7 @@ python main.py
    - Crop recommendation
    - Fertilizer suggestion
 
-## 🗂️Project Structure
+## Project Structure
 
 ```
 crop-yield-prediction/
@@ -183,7 +183,7 @@ crop-yield-prediction/
 └── README.md
 ```
 
-## 📊Results
+## Results
 
 - **Best Performing Model**: Random Forest
 - **Accuracy Achieved**: 99%
@@ -203,4 +203,3 @@ crop-yield-prediction/
   - Flask
   - Pandas
   - NumPy
-- **Special Thanks**: The open-source community and contributors who made this project possible
