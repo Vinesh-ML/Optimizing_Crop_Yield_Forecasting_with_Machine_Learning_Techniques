@@ -1,4 +1,4 @@
-<h1> Crop Yield Prediction Using Machine Learning </h1>
+<h1> Optimizing Crop Yield Forecasting with Machine Learning Techniques </h1>
 
 <p>
   <font color="gray" size="3">Predicting crop yield based on soil properties and environmental data using ML algorithms</font>
